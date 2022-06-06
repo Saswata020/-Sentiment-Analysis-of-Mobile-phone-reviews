@@ -20,4 +20,4 @@ import nltk
 import re
 
 # Exploratory Data Analysis
-Data visualization has been shown on  distribution of rating,number of reviews for top 20 brands,number of reviews for top 50 products,distribution of review length.
+Data visualization has been shown on  distribution of rating, number of reviews for top 20 brands, number of reviews for top 50 products, distribution of review length.
